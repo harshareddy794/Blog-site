@@ -7,7 +7,9 @@ This is my blog site which you can post your blog posts edit  it later and also 
 As a part of learning my full stack web developement, developed this simple site 
 
 Technologies Used:
-front end: HTML,CSS sematic ui(a css library)
+front end: HTML,CSS, Semantic ui(a css library)
+
 Back end : Nodejs,Express
+
 Database :Mongodb
 
