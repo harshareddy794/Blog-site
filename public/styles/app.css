@@ -1,0 +1,10 @@
+.ui.text.container{
+    margin-top: 75px;
+}
+
+i.icon{
+    size: 4em;
+}
+#delete{
+    display: inline;
+}
