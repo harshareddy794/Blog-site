@@ -33,9 +33,13 @@ As a part of learning my full stack web developement, developed this simple blog
 
 ```node app.js```
 
-3. Going to blog page
+3. Using blog in browser
 
 ```127.0.0.1:3000```
+
+# Contribution
+
+Pull request are welcome and happy to see more open source contributors
 
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
