@@ -12,13 +12,16 @@ As a part of learning my full stack web developement, developed this simple blog
 
 # Technologies used
 
-## front end
-html, css, Semantic ui(a css library)
+### front end
+* HTML 
+* CSS
+* Semantic ui(a css library)
 
-## Back end
-Nodejs,Express
+### Back end
+* Nodejs
+* Express
 
-## Database 
+### Database 
 Mongodb
 
 # Setup and usage
