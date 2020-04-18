@@ -22,7 +22,7 @@ As a part of learning my full stack web developement, developed this simple blog
 * Express
 
 ### Database 
-Mongodb
+* Mongodb
 
 # Setup and usage
 1. Start server
