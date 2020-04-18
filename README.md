@@ -25,11 +25,15 @@ As a part of learning my full stack web developement, developed this simple blog
 * Mongodb
 
 # Setup and usage
-1. Start server
+1. Install all dependencies
+
+```npm install ```
+
+2. Start server
 
 ```node app.js```
 
-2. Going to blog page
+3. Going to blog page
 
 ```127.0.0.1:3000```
 
